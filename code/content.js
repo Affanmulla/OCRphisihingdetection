@@ -216,7 +216,7 @@ function isMailToAvailable(){
         return -1;
     } 	
     else{
-        console.log("P");
+        //console.log("P");
         return 1;
     }
 }
