@@ -1,11 +1,13 @@
-# **About:**
+# PARLOUS WEB SECURITY TOOL
+
+## **About:**
 
 Hello and Welcome to Readme of Parlous Browser Extension
 Parlous is browser extension with the aim to enhance users privacy and security
 This extension consist feature like malicious website detection, ads blocker, content
 filtering, enabling-disabling unwanted scripts, monitoring and filtering unwanted elements
 
-# **Why this project??**
+## **Why this project??**
 
 we aim to provide security to everybody even if the user is not that 
 aware or educate about the latest attacks and trends in technology
@@ -14,7 +16,7 @@ ranging from pro enhanced full fledged security tools to basic simple ad blocker
 but we find an need to balance the functionality and easiness for users
 is required
 
-# **Installation:**
+## **Installation:**
 
 ### Currently this project is under review.
 
@@ -32,7 +34,7 @@ Step-4: locate the main unzipped folder pin it
 Step-5: and you are ready to use it.
 ```
 
-# **Future:**
+## **Future:**
 
 We will be looking to spread and educate institutes about this product this
 can be installed in campus.
